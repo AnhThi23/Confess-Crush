@@ -13,8 +13,8 @@ const CONFIG = {
     question: 'Thèm đồ nướng lắm ròi đúng hong? <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 5h30, anh qua đón đi chơi nha.',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'hẹn em Chủ Nhật Tối 5h30, anh qua đón đi chơi nha.',
     btnAccept: 'dạ vânggggg <3',
     messLink: 'https://www.facebook.com/messages/t/100013335102037' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
